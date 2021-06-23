@@ -6,6 +6,7 @@
  I am a graduate student from PennState
 </p>
 
+ <p align='center'>
  <a href="https://www.linkedin.com/in/mayank-murali-87138b11b/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  <a href="https://github.com/MayankMurali">
@@ -17,6 +18,7 @@
   </a> <a href="https://www.researchgate.net/profile/Mayank-Murali">
     <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
   </a>
+  </p>
   
   <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mayankmurali&show_icons=true&count_private=true&theme=dark" width="350"></a>
