@@ -39,11 +39,11 @@
 ​	
 - :high_brightness: My [research lab group advised by Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/) 
 
-- 🧬 I am currently working on developing Metagenomics assembly tool using long-reads NGS data
+- 🧬 I am currently working on developing Metagenomic assembly tool using long-reads NGS data
 
 - :dart: 2021 Goals: Perhaps begin PhD or look for Software Developer job or as a Bioinformatician
 
--  :page_facing_up: My [resume-SE](https://mayankmurali.github.io/resume-SE/) based on Software Engineering and [resume-Bio](https://github.com/MayankMurali/resume-SE/raw/main/Mayank_Murali_Resume_SE.pdf) based on Bioinformatics background
+-  :page_facing_up: My [resume-SE](https://mayankmurali.github.io/resume-SE/) based on Software Engineering and [resume-Bio](https://mayankmurali.github.io/resume-Bio/) based on Bioinformatics background
 
   
 
