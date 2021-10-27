@@ -57,6 +57,7 @@
 - [New Discovery Shows Human Cells Can Write RNA Sequences Into DNA – Challenges Central Principle in Biology ](https://scitechdaily.com/new-discovery-shows-human-cells-can-write-rna-sequences-into-dna-challenges-central-principle-in-biology/)
 - [A cartoon guide to bioinformatics by a novice coder](https://www.nature.com/articles/d41586-021-01485-y?error=cookies_not_supported&code=92a33767-28b8-45f7-824b-0e10e981ea2a)
 - [DeepMind’s protein-folding AI has solved a 50-year-old grand challenge of biology](https://www.technologyreview.com/2020/11/30/1012712/deepmind-protein-folding-ai-solved-biology-science-drugs-disease/)
+- [Ten simple rules for getting started with command-line bioinformatics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008645)
 
 <br></br>
 
