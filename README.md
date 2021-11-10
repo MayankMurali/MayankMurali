@@ -43,7 +43,7 @@
 
 - :dart: 2021 Goals: Perhaps begin PhD or look for Software Developer job or as a Bioinformatician
 
--  :page_facing_up: My [resume-SE](https://mayankmurali.github.io/resume-SE/) based on Software Engineering and [resume-Bio](https://mayankmurali.github.io/resume-Bio/) based on Bioinformatics background
+
 
   
 
