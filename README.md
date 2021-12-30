@@ -37,14 +37,13 @@
 </p>
 
 ​	
-- :high_brightness: My %md <a href="https://sites.psu.edu/mxs2589/" target="_blank">research lab group</a>
- advised by [Dr. Mingfu Shao](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=mxs2589){target="_blank"} 
+- :high_brightness: My [research lab group](https://sites.psu.edu/mxs2589/) advised by [Dr. Mingfu Shao](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=mxs2589)
 
 - 🧬 I am currently working on developing Metagenomic assembly tool using long-reads NGS data
 
 - :dart: 2021 Goals: Perhaps begin PhD or look for Software Developer job or as a Bioinformatician
 
-- :page_facing_up: My [resume-SE](https://mayankmurali.github.io/resume-SE/){target="_blank"} based on Software Engineering and [resume-BIO](https://mayankmurali.github.io/resume-BIO/){target="_blank"} based on Bioinformatics background
+- :page_facing_up: My [resume-SE](https://mayankmurali.github.io/resume-SE/) based on Software Engineering and [resume-BIO](https://mayankmurali.github.io/resume-BIO/) based on Bioinformatics background
 
 
 
@@ -56,11 +55,11 @@
 
 ​		📕 Interesting blogs.
 
-- [The complete sequence of a human genome](https://doi.org/10.1101/2021.05.26.445798){target="_blank"}
-- [New Discovery Shows Human Cells Can Write RNA Sequences Into DNA – Challenges Central Principle in Biology ](https://scitechdaily.com/new-discovery-shows-human-cells-can-write-rna-sequences-into-dna-challenges-central-principle-in-biology/){target="_blank"}
-- [A cartoon guide to bioinformatics by a novice coder](https://www.nature.com/articles/d41586-021-01485-y?error=cookies_not_supported&code=92a33767-28b8-45f7-824b-0e10e981ea2a){target="_blank"}
-- [DeepMind’s protein-folding AI has solved a 50-year-old grand challenge of biology](https://www.technologyreview.com/2020/11/30/1012712/deepmind-protein-folding-ai-solved-biology-science-drugs-disease/){target="_blank"}
-- [Ten simple rules for getting started with command-line bioinformatics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008645){target="_blank"}
+- [The complete sequence of a human genome](https://doi.org/10.1101/2021.05.26.445798)
+- [New Discovery Shows Human Cells Can Write RNA Sequences Into DNA – Challenges Central Principle in Biology ](https://scitechdaily.com/new-discovery-shows-human-cells-can-write-rna-sequences-into-dna-challenges-central-principle-in-biology/)
+- [A cartoon guide to bioinformatics by a novice coder](https://www.nature.com/articles/d41586-021-01485-y?error=cookies_not_supported&code=92a33767-28b8-45f7-824b-0e10e981ea2a)
+- [DeepMind’s protein-folding AI has solved a 50-year-old grand challenge of biology](https://www.technologyreview.com/2020/11/30/1012712/deepmind-protein-folding-ai-solved-biology-science-drugs-disease/)
+- [Ten simple rules for getting started with command-line bioinformatics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008645)
 
 <br></br>
 
