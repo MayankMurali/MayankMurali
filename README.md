@@ -37,7 +37,7 @@
 </p>
 
 ​	
-- :high_brightness: My <a href="https://sites.psu.edu/mxs2589/" target="_blank">research lab group</a>
+- :high_brightness: My %md <a href="https://sites.psu.edu/mxs2589/" target="_blank">research lab group</a>
  advised by [Dr. Mingfu Shao](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=mxs2589){target="_blank"} 
 
 - 🧬 I am currently working on developing Metagenomic assembly tool using long-reads NGS data
