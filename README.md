@@ -45,6 +45,8 @@
 
 - :page_facing_up: My [resume-SE](https://mayankmurali.github.io/resume-SE/) based on Software Engineering and [resume-BIO](https://mayankmurali.github.io/resume-BIO/) based on Bioinformatics background
 
+- :thought_balloon: Check out my [personal website](https://mayankmurali.github.io/)
+
 
 
   
