@@ -2,17 +2,17 @@
   Hi there 👋 I'm Mayank
 </h1>
 <p align='center'>
- I am a graduate student, PennState class of 2021. 
+ I am a Senior Data Analyst. 
 </p>
 
 <p align='center'>
-<img src="https://static.wikia.nocookie.net/logopedia/images/a/a8/Pennsylvania_State_University_logo.png/revision/latest?cb=20191224222759" alt="PennState logo" style="zoom:50%;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/University_of_Virginia_School_of_Medicine.png" alt="UVA SoM logo" />
 </p>
 <br> </br>
 
 
  <p align='center'>
- <a href="https://www.linkedin.com/in/mayank-murali-87138b11b/">
+ <a href="https://www.linkedin.com/in/mayankmurali/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  <a href="https://github.com/MayankMurali">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -25,36 +25,24 @@
   </a>
   </p>
 
-  
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/MayankMurali/MayankMurali"></a> 
-</p>
-
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mayankmurali&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-​	
-- :high_brightness: My [research lab group](https://sites.psu.edu/mxs2589/) advised by [Dr. Mingfu Shao](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=mxs2589)
-
-- 🧬 I am currently working on developing Metagenomic assembly tool using long-reads NGS data
-
-- :dart: 2021 Goals: Perhaps begin PhD or look for Software Developer job or as a Bioinformatician
-
-- :page_facing_up: My [resume-SE](https://mayankmurali.github.io/resume-SE/) based on Software Engineering and [resume-BIO](https://mayankmurali.github.io/resume-BIO/) based on Bioinformatics background
-
-- :thought_balloon: Check out my [personal website](https://mayankmurali.github.io/)
-
-
-
-  
-
-  
 
 <br></br>
 
+
+- 🧬 At [Sheynkman lab](https://med.virginia.edu/sheynkman-lab/) I work on developing computational tools to understand the role of RNA in alternative splicing and its effect on disease-relevant protein forms or “proteoforms" from genomics, proteomics, and systems biology perspective.
+
+- :high_brightness: Completed my MS in Computer Science fromn PennState. At [Shao Group](https://sites.psu.edu/mxs2589/) I developed pipeline to analyse and benchmark de novo metagenomic assemblies for PacBio IsoSeq (HiFi) data.
+
+- :thought_balloon: Check out my [personal website](https://mayankmurali.github.io/ (to be updated)
+
+<br></br>
+
+<p align='center'>
+<img src="http://1.bp.blogspot.com/-3kIJfEKDpx8/Th0J4Zp7KKI/AAAAAAAADLQ/b_aO9zQnSVU/s1600/usual-suspects.gif" alt="Biocomicals" />
+</p>
+
+<br> </br>
 ​		📕 Interesting blogs.
 
 - [The complete sequence of a human genome](https://doi.org/10.1101/2021.05.26.445798)
@@ -65,17 +53,7 @@
 
 <br></br>
 
-### SoundCloud Playing 🎧
 
--- coming soon--
-
-<br></br>
-
-<p align='center'>
-<img src="http://1.bp.blogspot.com/-3kIJfEKDpx8/Th0J4Zp7KKI/AAAAAAAADLQ/b_aO9zQnSVU/s1600/usual-suspects.gif" alt="Biocomicals" />
-</p>
-
-<br> </br>
 
 ---
 
