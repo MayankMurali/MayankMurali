@@ -2,47 +2,63 @@
   Hi there 👋 I'm Mayank
 </h1>
 <p align='center'>
- I am a Senior Data Analyst. 
+ And I  am a Computational Associate at the Broad Insititute.
 </p>
-
+ 
 <p align='center'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/University_of_Virginia_School_of_Medicine.png" alt="UVA SoM logo" />
+<a href="https://www.linkedin.com/in/mayankmurali/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href="https://scholar.google.com/citations?user=NHhlJkgAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a> 
+<a href="https://soundcloud.com/mayank_maverick">
+  <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+</a> 
+<a href="https://steamcommunity.com/id/slash08/">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
 </p>
-<br> </br>
+</br>
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Broad_Institute_logo.png" alt="Broad Institute logo" height="35"/> &nbsp;&nbsp;&nbsp; <img src="https://mma.prnewswire.com/media/1625522/CGMD_logo_print___CMYK_colour_Logo.jpg" alt="Novo Nordisk logo" height="35"/>&nbsp;&nbsp;&nbsp;       Broad Institute (Present)
 
 
- <p align='center'>
- <a href="https://www.linkedin.com/in/mayankmurali/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  <a href="https://github.com/MayankMurali">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  <a href="https://soundcloud.com/mayank_maverick">
-    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
-  </a>  <a href="https://steamcommunity.com/id/slash08/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a> <a href="https://www.researchgate.net/profile/Mayank-Murali">
-    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
-  </a>
-  </p>
+- 🧬 **Current Role**: Exploring **type 2 diabetes** and **cardiometabolic diseases** with a focus on polygenic risk scores (PRS) and the integration of genetics with epigenetics.  
+
+
+---
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/University_of_Virginia_School_of_Medicine.png" alt="UVA logo" height="50"/>&nbsp;&nbsp;&nbsp;       The University of Virginia
+
+-  Worked as a **Senior Data Analyst** in the [**Sheynkman Lab**](https://med.virginia.edu/sheynkman-lab/).  
+ - 🧬 **Research** : 
+    - Developed a Python-based bioinformatics pipeline to analyze **long-read RNA-Seq data** and study protein isoforms impacted by splicing QTLs.
+    - Created tools to design UCSC browser tracks and visualize splicing effects on diseases like coronary artery disease.
+  - 📜 **Publications**:
+    - **First-author**: *Biosurfer for systematic tracking of regulatory mechanisms leading to protein isoform diversity*  
+    [bioRxiv preprint](https://doi.org/10.1101/2024.03.15.585320)
+    - **Co-authored**: *Long-read proteogenomics to connect disease-associated sQTLs to the protein isoform effectors of disease*  
+  Published in [American Journal of Human Genetics](https://doi.org/10.1016/j.ajhg.2024.07.003)
+    - **Co-authored**: *Characterization of protein isoform diversity in human umbilical vein endothelial cells via long-read proteogenomics*  
+  Published in [RNA Biology](https://doi.org/10.1080/15476286.2022.2141938)
 
 
 
-<br></br>
+---
+#### <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Pennsylvania_State_University_logo.svg" alt="PSU logo" height="60"/>&nbsp;&nbsp;&nbsp;       The Pennsylvania State University
+  
+- 📜 Completed my **Master of Science** in **Computer Science**.  
+- 🧬 **Research**: At the [**Shao Group**](https://sites.psu.edu/mxs2589/), I developed pipelines for benchmarking and analyzing **de novo metagenomic assemblies** using PacBio IsoSeq (HiFi) datasets ([GitHub](https://github.com/Shao-Group/metagenome-analysis)).  
+- 🎓 As a **Graduate Teaching Assistant**, I facilitated learning for the "Introduction to System Programming" course.  
 
-
-- 🧬 At [Sheynkman lab](https://med.virginia.edu/sheynkman-lab/) I work on developing computational tools to understand the role of RNA in alternative splicing and its effect on disease-relevant protein forms or “proteoforms" from genomics, proteomics, and systems biology perspective.
-
-- :high_brightness: Completed my MS in Computer Science fromn PennState. At [Shao Group](https://sites.psu.edu/mxs2589/) I developed pipeline to analyse and benchmark de novo metagenomic assemblies for PacBio IsoSeq (HiFi) data.
-
-- :thought_balloon: Check out my [personal website](https://mayankmurali.github.io/ (to be updated)
-
-<br></br>
+---
 
 <p align='center'>
 <img src="http://1.bp.blogspot.com/-3kIJfEKDpx8/Th0J4Zp7KKI/AAAAAAAADLQ/b_aO9zQnSVU/s1600/usual-suspects.gif" alt="Biocomicals" />
 </p>
 
-<br> </br>
+---
 ​		📕 Interesting blogs.
 
 - [The complete sequence of a human genome](https://doi.org/10.1101/2021.05.26.445798)
@@ -52,10 +68,3 @@
 - [Ten simple rules for getting started with command-line bioinformatics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008645)
 
 <br></br>
-
-
-
----
-
-
-
